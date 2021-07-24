@@ -7,7 +7,7 @@
 - 📹 I take interest in VFX and CGI (3D) as well. I can also use some common editing software.
 - 🎮 I like to play games. Mainly SCP: Secret Laboratory and Roblox. I take some interest in Game Development as well.
 
-The most important thing you should know about me is that I am a novice to programming :)
+The most important thing you should know about me is that I am a novice to programming
 
 ### Currently learning:
 
