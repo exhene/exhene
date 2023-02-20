@@ -24,8 +24,6 @@ The most important thing you should know about me is that I am a novice to progr
  
  <p>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
-  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
@@ -65,4 +63,4 @@ The most important thing you should know about me is that I am a novice to progr
     <img alt="Codecademy" src="https://img.shields.io/badge/codecademy-1F4056?logo=codecademy&logoColor=white&style=for-the-badge" />
   </a>
  
-You can reach out to me by adding me on Discord at Jack2#2021
+You can reach out to me by adding me on Discord at Jack3#2023
