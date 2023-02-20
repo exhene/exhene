@@ -1,5 +1,3 @@
-![](https://github.com/wprxoid/wprxoid/blob/aboutme/welcometomyprofilebro2.png)
-
 ### Some info about me 🙂
 
 - 🌱 Currently learning JavaScript.
@@ -29,7 +27,7 @@ The most important thing you should know about me is that I am a novice to progr
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
      
  ---
- ### My GitHub Stats:
+ ### Stats:
 
    I am new to GitHub so nothing significant will show here for now, but I'm learning!
    
