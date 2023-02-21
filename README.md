@@ -29,18 +29,18 @@ The most important thing you should know about me is that I am a novice to progr
  ---
  ### Stats:
 
-   I am new to GitHub so nothing significant will show here for now, but I'm learning!
+   Programming apprentice (not really)
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wprxoid&layout=compact&theme=dark)](https://github.com/wprxoid/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wprxoid&layout=compact&theme=dark)](https://github.com/exhene/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wprxoid&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=exhene&theme=dark)](https://git.io/streak-stats)
 
-![wprxoid's GitHub stats](https://github-readme-stats.vercel.app/api?username=wprxoid&show_icons=true&theme=dark)
+![wprxoid's GitHub stats](https://github-readme-stats.vercel.app/api?username=exhene&show_icons=true&theme=dark)
    
 </p>
 
 ---
-### I can work with common editing software like I mentioned above and those include:
+### I am capable of working with the following software:
 
 <p>
    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge" />
@@ -60,5 +60,3 @@ The most important thing you should know about me is that I am a novice to progr
   <a href="https://www.codecademy.com/learn">
     <img alt="Codecademy" src="https://img.shields.io/badge/codecademy-1F4056?logo=codecademy&logoColor=white&style=for-the-badge" />
   </a>
- 
-You can reach out to me by adding me on Discord at Jack3#2023
