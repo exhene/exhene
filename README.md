@@ -31,7 +31,7 @@ The most important thing you should know about me is that I am a novice to progr
 
    Programming apprentice (not really)
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wprxoid&layout=compact&theme=dark)](https://github.com/exhene/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exhene&layout=compact&theme=dark)](https://github.com/exhene/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=exhene&theme=dark)](https://git.io/streak-stats)
 
