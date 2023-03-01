@@ -8,13 +8,22 @@
 As a novice to programming, I am eager to learn and grow my skills in this fascinating field. I may not have much prior experience in programming, but I am willing to put in the effort to become proficient in it. I believe that my passion for problem-solving, creativity, and dedication to learning will help me succeed in this challenging yet rewarding pursuit. I am looking forward to discovering the vast possibilities that programming has to offer and building a solid foundation for my future in this field.
 
 ---
-### Languages & tools that I am learning 🧰
+### Languages & tools that I have experimented with 🧰
 
+It might seem that I am doing too much but again, I experimented with all of these prior and might not be established in all of them.
 <p>
+  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+    </a>
+    <a href="https://html.spec.whatwg.org/">
  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+      </a>
+      <a href="https://www.w3.org/TR/CSS/#css">
  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+        </a>
+        <a href="https://nodejs.org/en/">
  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
+          </a>
  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/backbonejs/backbonejs-plain.svg"/>
  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg"/>
  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
@@ -49,7 +58,7 @@ As a novice to programming, I am eager to learn and grow my skills in this fasci
 ---
 ### Stats 📈:
 
-Bound to improve over time as I improve
+Bound to increase over time as I improve
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exhene&layout=compact&theme=dark)](https://github.com/exhene/github-readme-stats)
 
@@ -63,13 +72,25 @@ Bound to improve over time as I improve
 ### I am capable of working with the following software ⚙️
 
 <p>
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge" />
+ <a href="https://www.adobe.com/products/premiere.html">
+  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge" />
+ </a>
+  <a href="https://www.adobe.com/products/aftereffects.html">
   <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=adobeaftereffects&logoColor=white&style=for-the-badge" />
+ </a>
+   <a href="https://www.adobe.com/products/photoshop.html">
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" />
+ </a>
+    <a href="https://www.maxon.net/en/cinema-4d">
   <img alt="Cinema 4D" src="https://img.shields.io/badge/Cinema 4D-011A6A?logo=cinema4d&logoColor=white&style=for-the-badge" />
+ </a>
+     <a href="https://www.unrealengine.com/en-US">
   <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal Engine-313131?logo=unrealengine&logoColor=white&style=for-the-badge" />
+ </a>
+      <a href="https://www.ableton.com/en/live/">
   <img alt="Ableton Live" src="https://img.shields.io/badge/Ableton Live-000000?logo=abletonlive&logoColor=white&style=for-the-badge" />
-
+</a>
+ 
 ### I am currently learning how to code from these two sites ⌨️
 <p>
   <a href="https://www.freecodecamp.org/learn">
