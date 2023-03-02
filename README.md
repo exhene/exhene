@@ -8,7 +8,7 @@
 As a novice to programming, I am eager to learn and grow my skills in this fascinating field. I may not have much prior experience in programming, but I am willing to put in the effort to become proficient in it. I believe that my passion for problem-solving, creativity, and dedication to learning will help me succeed in this challenging yet rewarding pursuit. I am looking forward to discovering the vast possibilities that programming has to offer and building a solid foundation for my future in this field.
 
 ---
-### Languages & tools that I have experimented with 🧰
+### Languages & tools that I have experimented with or plan to experiment with 🧰
 
 It might seem that I am doing too much but again, I experimented with all of these prior and might not be established in all of them.
 <p>
@@ -58,7 +58,7 @@ It might seem that I am doing too much but again, I experimented with all of the
 ---
 ### Stats 📈:
 
-Bound to increase over time as I improve
+Bound to increase over time as I improve, although there might be limitations
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exhene&layout=compact&theme=dark)](https://github.com/exhene/github-readme-stats)
 
@@ -70,6 +70,8 @@ Bound to increase over time as I improve
 
 ---
 ### I am capable of working with the following software ⚙️
+
+I aspire to improve my abilities in them and also aspire to learn about other software to diversify my abilities
 
 <p>
  <a href="https://www.adobe.com/products/premiere.html">
@@ -92,6 +94,9 @@ Bound to increase over time as I improve
 </a>
  
 ### I am currently learning how to code from these two sites ⌨️
+
+I am learning from other sites as well, so these two are not the only ones where I am learning from
+
 <p>
   <a href="https://www.freecodecamp.org/learn">
     <img alt="freeCodeCamp" src="https://img.shields.io/badge/freecodecamp-0A0A23?logo=freecodecamp&logoColor=white&style=for-the-badge" />
