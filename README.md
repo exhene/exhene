@@ -40,7 +40,7 @@ It might seem that I am doing too much but again, I experimented with all of the
  <br/>
 
 ---
-### Stats 📈:
+### Stats 📈
 
 Bound to increase over time as I improve, although there might be limitations
 
@@ -87,6 +87,8 @@ I am learning from other sites as well, so these two are not the only ones where
     <img alt="Codecademy" src="https://img.shields.io/badge/codecademy-1F4056?logo=codecademy&logoColor=white&style=for-the-badge" />
   </a>
 
+  ### You should know..
+  
 As an individual with a passion for technology, I am constantly seeking opportunities to improve my skills and abilities. In particular, I aspire to enhance my abilities in the software that I currently use, while also seeking to expand my knowledge and expertise to other software programs. I believe that diversifying my abilities in different software tools will not only make me a more well-rounded and versatile professional, but also open up new doors and possibilities in my career
   
   ---
