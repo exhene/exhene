@@ -86,6 +86,6 @@ I am learning from other sites as well, so these two are not the only ones where
 
   ### You should know..
   
-As an individual with a passion for technology, I am constantly seeking opportunities to improve my skills and abilities. In particular, I aspire to enhance my abilities in the software that I currently use, while also seeking to expand my knowledge and expertise to other software programs. I believe that diversifying my abilities in different software tools will not only make me a more well-rounded and versatile professional, but also open up new doors and possibilities in my career
+As an individual with a passion for technology, I am constantly seeking opportunities to improve my skills and abilities. In particular, I aspire to enhance my abilities in the software that I currently use, while also seeking to expand my knowledge and expertise to other software programs. I believe that diversifying my abilities in different software tools will not only make me a more well-rounded and versatile professional, but also open up new doors and possibilities in my career 🙂
   
   ---
