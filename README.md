@@ -1,5 +1,6 @@
 ### Some info about me 🙂👍
 
+- 🙂 I also go by Jon if saying my name is a tedious task for you
 - 🌱 Since my return, I have begun exploring different programming languages and tools that I find interesting
 - 🖥️ Full-stack development is where I belong, since I aspire to be able to work through multiple roles
 - 📹 I take interest in VFX and CGI as well. I am also exploring different softwares that allow for the creation of them
