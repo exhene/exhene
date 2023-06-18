@@ -1,12 +1,9 @@
 ### Some info about me 🙂👍
 
-- 🙂 I also go by Jon if saying my name is a tedious task for you
-- 🌱 Since my return, I have begun exploring different programming languages and tools that I find interesting
+- 🌱 I am exploring different programming languages and tools that I find interesting
 - 🖥️ Full-stack development is where I belong, since I aspire to be able to work through multiple roles
-- 📹 I take interest in VFX and CGI as well. I am also exploring different softwares that allow for the creation of them
-- 🎮 I like to play games. Mainly SCP: Secret Laboratory and Roblox. I also happen to take huge interest in game development
-
-I am eager to learn and grow my skills in this fascinating field. I may not have much prior experience in programming, but I am willing to put in the effort to become proficient in it. I believe that my passion for problem-solving, creativity, and dedication to learning will help me succeed in this challenging yet rewarding pursuit. I am looking forward to discovering the vast possibilities that programming has to offer and building a solid foundation for my future in this field
+- 📹 I take interest in VFX and CGI as well.
+- 🎮 I like to play games.
 
 ---
 ### Languages & tools that I have experimented with or plan to experiment with 🧰
@@ -87,6 +84,6 @@ I am learning from other sites as well, so these two are not the only ones where
 
   ### You should know..
   
-As an individual with a passion for technology, I am constantly seeking opportunities to improve my skills and abilities. In particular, I aspire to enhance my abilities in the software that I currently use, while also seeking to expand my knowledge and expertise to other software programs. I believe that diversifying my abilities in different software tools will not only make me a more well-rounded and versatile professional, but also open up new doors and possibilities in my career 🙂
+As an individual with a passion for technology, I am constantly seeking opportunities to improve my skills and abilities. 🙂
   
   ---
